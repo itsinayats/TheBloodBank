@@ -12,7 +12,7 @@
 
     <title>Home|TheLife Saviours</title>
 
-    <!-- Bootstrap Core CSS -->
+    <!-- Bootstrap Core CSS ok -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom Fonts -->
